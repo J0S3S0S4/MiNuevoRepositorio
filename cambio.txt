@@ -1,1 +1,3 @@
-Contenido modificado desde conflicto-a
+Este es el contenido original del archivo cambio.txt  
+Contenido modificado desde conflicto-a  
+Contenido modificado desde conflicto-b
